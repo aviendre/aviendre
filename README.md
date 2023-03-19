@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on graduating from university
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me: ridhwanproper@gmail.com or
-- Discord: Aviendre#0001
+- 📫 How to reach me: ridhwanproper@gmail.com
+- 📞 Discord: Aviendre#0001
 - 😄 Pronouns: he/him
 
 ## 🌐 Socials:
